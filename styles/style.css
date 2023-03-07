@@ -28,7 +28,6 @@
   top: 32px;
   width: 228px;
   height: 32px;
- 
 }
 .header__square-pic {
   position: absolute;
@@ -234,8 +233,7 @@ width: 60%;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
-  min-height: 250px;
-  
+  min-height: 250px; 
 }
 .footer_column_content_copyright{
   flex-basis: 711px;
@@ -248,12 +246,11 @@ width: 60%;
   width: 228px;
   height: 32px;
 }
-
 .footer__author{
 margin: 18px 0 18px;
 position: absolute;
 bottom: 0;
-left: 0;  
+left: 0;
 color: white;
 line-height: 25px;
 font-size: 18px;
@@ -276,7 +273,6 @@ font-weight: normal;
   font-weight:normal;
   text-decoration: none;
   color: white;
-  
 }
 .footer_column_content_social{
   display: flex;
