@@ -1,0 +1,8 @@
+.khan__book-container {
+  display: flex;
+
+}
+
+.khan__book-container:last-child {
+  margin-right: 0;
+}
