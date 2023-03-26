@@ -1,6 +1,6 @@
 .feynman {
   margin: 0 auto;
-  background-image: url(/images/feynman.png);
+  background-image: url(../../images/feynman.png);
   background-size: 867px 637px;
   background-position: left bottom;
   background-repeat: no-repeat;
@@ -8,5 +8,4 @@
   background-color: #f2f2f2;
   position: relative;
   overflow: hidden;
-  z-index: 2;
 }
